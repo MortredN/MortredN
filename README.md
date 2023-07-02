@@ -3,7 +3,7 @@
 [![Twitter: Bach Viet Ha](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hvbach)
 [![Linkedin: Bach Viet Ha](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bach-viet-ha-b1a674198/)
 [![GitHub: MortredN](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MortredN)
-https://www.credly.com/badges/a87b2ce2-6f95-4202-8701-9af0a3cb757b/public_url
+
 I'm a web developer who:
 
 🔭 has a few years of front-end experience in React & Next.js

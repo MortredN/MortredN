@@ -11,12 +11,13 @@ I'm a web developer who:
 🌱 is currently learning Three.js to explore front-end options, and cloud technologies to go into the DevOps field
 
 🚀 worked at:
-  - <a href="https://superjoi.com"><img src="./superjoi.ico" alt="drawing" width="16"/> Superjoi</a>
-  - <a href="https://www.pvcombank.com.vn"><img src="./pvcombank.ico" alt="drawing" width="16"/> PVcomBank</a>
-  - <a href="https://cmcglobal.com.vn"><img src="./cmc.webp" alt="drawing" width="16"/> CMC Global</a>
+  - <a href="https://superjoi.com"><img src="./workplaces/superjoi.ico" alt="drawing" width="16"/> Superjoi</a>
+  - <a href="https://www.pvcombank.com.vn"><img src="./workplaces/pvcombank.ico" alt="drawing" width="16"/> PVcomBank</a>
+  - <a href="https://cmcglobal.com.vn"><img src="./workplaces/cmc.webp" alt="drawing" width="16"/> CMC Global</a>
 
 🤔 achieved some certificates along the way (and hungry for more):
 
-<a href="https://www.credly.com/badges/a87b2ce2-6f95-4202-8701-9af0a3cb757b/public_url"><img src="./aws-certified-cloud-practitioner.png" alt="drawing" width="120"/></a>
-<a href="https://www.credly.com/badges/4538b70e-d7da-4c76-b98a-0c311e7279ea/public_url"><img src="./aws-certified-developer-associate.png" alt="drawing" width="120"/></a>
-<a href="https://www.credly.com/badges/a1eb00a0-cf97-44a7-8f82-3729849db352/public_url"><img src="./aws-certified-solutions-architect-associate.png" alt="drawing" width="120"/></a>
+<a href="https://threejs-journey.com/certificate/view/25280"><img src="./certificates/threejs-journey.png" alt="drawing" width="120"/></a>
+<a href="https://www.credly.com/badges/a87b2ce2-6f95-4202-8701-9af0a3cb757b/public_url"><img src="./certificates/aws-certified-cloud-practitioner.png" alt="drawing" width="120"/></a>
+<a href="https://www.credly.com/badges/4538b70e-d7da-4c76-b98a-0c311e7279ea/public_url"><img src="./certificates/aws-certified-developer-associate.png" alt="drawing" width="120"/></a>
+<a href="https://www.credly.com/badges/a1eb00a0-cf97-44a7-8f82-3729849db352/public_url"><img src="./certificates/aws-certified-solutions-architect-associate.png" alt="drawing" width="120"/></a>

@@ -19,3 +19,4 @@ I'm a web developer who:
 
 <a href="https://www.credly.com/badges/a87b2ce2-6f95-4202-8701-9af0a3cb757b/public_url"><img src="./aws-certified-cloud-practitioner.png" alt="drawing" width="120"/></a>
 <a href="https://www.credly.com/badges/4538b70e-d7da-4c76-b98a-0c311e7279ea/public_url"><img src="./aws-certified-developer-associate.png" alt="drawing" width="120"/></a>
+<a href="https://www.credly.com/badges/a1eb00a0-cf97-44a7-8f82-3729849db352/public_url"><img src="./aws-certified-solutions-architect-associate.png" alt="drawing" width="120"/></a>

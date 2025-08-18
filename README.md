@@ -18,5 +18,5 @@
 <a href="https://www.credly.com/badges/a1eb00a0-cf97-44a7-8f82-3729849db352/public_url"><img src="./certificates/aws-certified-solutions-architect-associate.png" alt="drawing" width="80"/></a>
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/BachHa/596373B87AA164E0?sharingId=ED53CABF2080B677"><img src="./certificates/microsoft-identity-and-access-admin-associate.png" alt="drawing" width="80"/></a>
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/BachHa/61CAC71264A1B02?sharingId=ED53CABF2080B677"><img src="./certificates/microsoft-365-admin-expert.png" alt="drawing" width="80"/></a>
-<a href="https://learn.microsoft.com/en-us/users/bachha/credentials/b46f8687d4eb2af6"><img src="./certificates/microsoft-microsoft-azure-fundamentals.png" alt="drawing" width="80"/></a>
+<a href="https://learn.microsoft.com/en-us/users/bachha/credentials/b46f8687d4eb2af6"><img src="./certificates/microsoft-azure-fundamentals.png" alt="drawing" width="80"/></a>
 <a href="https://www.credly.com/badges/42513a44-7f78-4062-a878-bd034b11639a/public_url"><img src="./certificates/isc2-cc.png" alt="drawing" width="80"/></a>

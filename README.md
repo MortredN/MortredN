@@ -14,6 +14,7 @@
 <a href="https://threejs-journey.com/certificate/view/25280"><img src="./certificates/threejs-journey.png" alt="Three.js Journey" width="80"/></a>
 <a href="https://www.credly.com/badges/a87b2ce2-6f95-4202-8701-9af0a3cb757b/public_url"><img src="./certificates/aws-certified-cloud-practitioner.png" alt="AWS Cloud Practitioner" width="80"/></a>
 <a href="https://www.credly.com/badges/4538b70e-d7da-4c76-b98a-0c311e7279ea/public_url"><img src="./certificates/aws-certified-developer-associate.png" alt="AWS Developer Associate" width="80"/></a>
+<a href="https://www.credly.com/badges/75ab693c-91d9-433f-bb60-37bc427b413d/public_url"><img src="./certificates/aws-certified-cloudops-engineer-associate.png" alt="AWS CloudOps Engineer Associate" width="80"/></a>
 <a href="https://www.credly.com/badges/a1eb00a0-cf97-44a7-8f82-3729849db352/public_url"><img src="./certificates/aws-certified-solutions-architect-associate.png" alt="AWS Solutions Architect Associate" width="80"/></a>
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/BachHa/596373B87AA164E0?sharingId=ED53CABF2080B677"><img src="./certificates/microsoft-identity-and-access-admin-associate.png" alt="Microsoft Identity and Access Admin Associate" width="80"/></a>
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/BachHa/61CAC71264A1B02?sharingId=ED53CABF2080B677"><img src="./certificates/microsoft-365-admin-expert.png" alt="Microsoft 365 Admin Expert" width="80"/></a>

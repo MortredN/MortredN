@@ -16,6 +16,7 @@
 <a href="https://www.credly.com/badges/4538b70e-d7da-4c76-b98a-0c311e7279ea/public_url"><img src="./certificates/aws-certified-developer-associate.png" alt="AWS Developer Associate" width="80"/></a>
 <a href="https://www.credly.com/badges/75ab693c-91d9-433f-bb60-37bc427b413d/public_url"><img src="./certificates/aws-certified-cloudops-engineer-associate.png" alt="AWS CloudOps Engineer Associate" width="80"/></a>
 <a href="https://www.credly.com/badges/a1eb00a0-cf97-44a7-8f82-3729849db352/public_url"><img src="./certificates/aws-certified-solutions-architect-associate.png" alt="AWS Solutions Architect Associate" width="80"/></a>
+<a href="https://www.credly.com/badges/8f30ea19-9d81-43e3-9106-ad05a5bb28db/public_url"><img src="./certificates/aws-certified-devops-engineer-pro.png" alt="AWS Devops Engineer Professional" width="80"/></a>
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/BachHa/596373B87AA164E0?sharingId=ED53CABF2080B677"><img src="./certificates/microsoft-identity-and-access-admin-associate.png" alt="Microsoft Identity and Access Admin Associate" width="80"/></a>
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/BachHa/61CAC71264A1B02?sharingId=ED53CABF2080B677"><img src="./certificates/microsoft-365-admin-expert.png" alt="Microsoft 365 Admin Expert" width="80"/></a>
 <a href="https://learn.microsoft.com/en-us/users/bachha/credentials/b46f8687d4eb2af6"><img src="./certificates/microsoft-azure-fundamentals.png" alt="Microsoft Azure Fundamentals" width="80"/></a>
